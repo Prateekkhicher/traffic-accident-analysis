@@ -61,14 +61,14 @@ SQL queries were used to validate insights and extract structured patterns:
 ---
 
 ## 📁 Project Structure
-traffic-accident-analysis/
-│
-├── traffic_accident_analysis.ipynb # Main analysis (Python + SQL)
-├── accident_prediction_india.csv # Raw dataset
-├── clean_accident_data.csv # Cleaned dataset
-├── requirements.txt # Dependencies
-├── README.md # Documentation
-└── LICENSE # License
+
+traffic-accident-analysis/  
+├── traffic_accident_analysis.ipynb  # Main analysis (Python + SQL)  
+├── accident_prediction_india.csv    # Raw dataset  
+├── clean_accident_data.csv          # Cleaned dataset  
+├── requirements.txt                 # Dependencies  
+├── README.md                        # Documentation  
+└── LICENSE                          # License  
 
 ## Conclusion
 This project demonstrates how combining Python (EDA + Visualization) with SQL (Data Querying) provides deeper insights into real-world datasets.
